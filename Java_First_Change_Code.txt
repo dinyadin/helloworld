@@ -1,9 +1,0 @@
-import java.io.*;
-
-class Messagechange{
-
-public static void Main(String[]args){
-
-System.out.println("The changed message");
-}
-}
